@@ -1,0 +1,17 @@
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\bin\Debug\net8.0\TavernSystem.Application.deps.json
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\bin\Debug\net8.0\TavernSystem.Application.dll
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\bin\Debug\net8.0\TavernSystem.Application.pdb
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\bin\Debug\net8.0\Repositories.dll
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\bin\Debug\net8.0\TavernSystem.Models.dll
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\bin\Debug\net8.0\TavernSystem.Models.pdb
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\bin\Debug\net8.0\Repositories.pdb
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\obj\Debug\net8.0\TavernSystem.Application.csproj.AssemblyReference.cache
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\obj\Debug\net8.0\TavernSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\obj\Debug\net8.0\TavernSystem.Application.AssemblyInfoInputs.cache
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\obj\Debug\net8.0\TavernSystem.Application.AssemblyInfo.cs
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\obj\Debug\net8.0\TavernSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\obj\Debug\net8.0\TavernSy.7792B82A.Up2Date
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\obj\Debug\net8.0\TavernSystem.Application.dll
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\obj\Debug\net8.0\refint\TavernSystem.Application.dll
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\obj\Debug\net8.0\TavernSystem.Application.pdb
+C:\Users\s30252\RiderProjects\Test\TavernSystem.Application\obj\Debug\net8.0\ref\TavernSystem.Application.dll
